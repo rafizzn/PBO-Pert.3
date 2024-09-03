@@ -1,5 +1,8 @@
 Argumentasi kasus
 
-Abstrak: Untuk mewariskan sifat dari "induk" kepada subclass-subclass nya.
+Abstrak: Abstrak tidak dapat diinstansiasi, jadi kita tidak dapat membuat objek secara langsung di abstract class.
+Kelas abstrak sering digunakan untuk mendefinisikan hirarki kelas dengan menyediakan dasar umum untuk semua subclass.
 
-Interface: Karena mekanik memiliki banyak tugas. Tidak hanya menjalankan satu tugas, tetapi harus bisa mengerjakan tugas-tugas lainnya.
+Interface: Interface tidak memiliki implementasi, dan kelas yang mengimplementasikan interface tersebut wajib 
+mengimplementasikan semua metode yang didefinisikan dalam interface. Karena mekanik memiliki banyak tugas. 
+Tidak hanya menjalankan satu tugas, tetapi harus bisa mengerjakan tugas-tugas lainnya.
